@@ -16,7 +16,7 @@ theme: Plain Jane, 1
 
 # [fit] :beer: / :statue_of_liberty:
 
-^ Ask people if they've ever contributed OSS? Monthly? Weekly?. First part of the talk geared towards junior devs and those who are too scared to contribute to OSS.
+^ Ask people if they've ever contributed OSS? Monthly? Weekly? First part of the talk geared towards junior devs and those who are too scared to contribute to OSS.
 
 ---
 
@@ -126,7 +126,7 @@ Same exact app with multiple screens that needed Pull-To-Refresh with an onRefre
 # Swizzling UITextField's Clear Button
 
 ```objc
-- (void)setuptextFieldClearButton
+- (void)setupTextFieldClearButton
 {
     // A boolean that toggles the state of the keyboard after the clear-text button is pressed.
     _dismissKeyboardWhenClearingTextField = @NO;
@@ -289,7 +289,7 @@ Same exact app with multiple screens that needed Pull-To-Refresh with an onRefre
 - Add a README
 - Document every line of `public` code
   - Document `private` code as necessary
-- Add Documentations using [Jazzy](https://github.com/Realm/Jazzy)
+- Add Documentation using [Jazzy](https://github.com/Realm/Jazzy)
 - Add Tests and hook up to Continuous Integration
 - Add a document describing the Vision (e.g., `VISION.md`)
 - Add issues delineating future features
@@ -300,7 +300,7 @@ Same exact app with multiple screens that needed Pull-To-Refresh with an onRefre
 # Marketing your Library
 
 - Submit to Mailing Lists
-  - [iOS Dev Weekly](https://iosdevweekly.com/) - Dave Verwer, Evan Dekhayser, Vicc Alexander
+  - [iOS Dev Weekly](https://iosdevweekly.com/) - Dave Verwer & Co.
   - [This Week in Swift](https://swiftnews.curated.co/) - Natasha The Robot
   - [iOS Goodies](http://ios-goodies.com/) - Rui Peres & Tiago Almeida
   - [Lil' Bites of Cocoa](littlebitesofcocoa.com) - Jake Marsh
