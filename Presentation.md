@@ -316,8 +316,14 @@ Same exact app with multiple screens that needed Pull-To-Refresh with an onRefre
 
 ---
 
+# Power Usage Insights from [AppSight.io](http://www.appsight.io)
+
+
+![inline](assets/appsight.png)
+
+---
+
 # Your Local Growth Hacker
-### (The Swift Community's Top Marketer)
 
 ![inline](assets/lisa.jpg)
 
