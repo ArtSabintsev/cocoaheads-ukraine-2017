@@ -25,7 +25,7 @@ theme: Plain Jane, 1
 ![right 90%](assets/gitfame.png)
 
 - 1.9 million+ downloads via CocoaPods[^1]
-- 7,700+ stars on GitHub[^2]
+- 7,800+ stars on GitHub[^2]
 - Contributed to Swift 3.1[^3]
 - Contributed to Swift Source Compatibility[^4] [^5]
 
