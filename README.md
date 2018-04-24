@@ -1,6 +1,7 @@
 ## How Open Source Development Can Make You A Better Developer
 
 This is my presentation for [CocoaHeads Ukraine](https://www.facebook.com/CocoaHeadsUkraine/), presented on December 16, 2017.
+ - [Video on YouTube](https://www.youtube.com/watch?v=jaSN-24BeUU)
 
 This presentation was built to be used with [Deckset for Mac](http://decksetapp.com).
 
